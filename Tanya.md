@@ -1,8 +1,12 @@
 ##### Hi! My name is
 # Tanya!
 
+I'm the host. The whole system also uses me as a name in 
+place of theirs if they don't know who they are, so there's that.
+
 ##### pronouns
-She/They
+She/Her <br />
+If I seem to be acting "out of the norm", use They/Them.
 
 ##### faceclaim
 ![Tanya's Picrew](./hm-picrews/Tanya-Picrew.jpg?raw=true)
