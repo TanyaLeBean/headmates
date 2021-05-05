@@ -1,9 +1,9 @@
 # Headmates
 
-## [Tanya](https://tanyalebean.github.io/headmates/Tanya)
+## [Tanya](./Tanya)
 
-## [Coda](https://tanyalebean.github.io/headmates/Coda)
+## [Coda](./Coda)
 
-## [Proto](https://tanyalebean.github.io/headmates/Proto)
+## [Proxx](./Proxx)
 
 ### [Homepage](https://tanyalebean.github.io)
