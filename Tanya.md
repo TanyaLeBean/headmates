@@ -4,5 +4,5 @@
 ##### pronouns
 She/They
 
-##### picrew
+##### faceclaim
 ![Tanya's Picrew](./hm-picrews/Tanya-Picrew.jpg?raw=true)
