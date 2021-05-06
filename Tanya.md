@@ -12,3 +12,6 @@ If I seem to be acting "out of the norm", use They/Them.
 
 ##### faceclaim
 ![Tanya's Picrew](./hm-picrews/Tanya-Picrew.jpg?raw=true)
+
+##### latest blog post
+I did one! Go check [it](tanyalebean.github.io/blog/blog_most_recent) out!

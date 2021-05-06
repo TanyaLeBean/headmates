@@ -2,8 +2,8 @@
 
 ## [Tanya](./Tanya)
 
-## [Coda](./Coda)
-
 ## [Proxx](./Proxx)
+
+## [Coda](./Coda)
 
 ### [Homepage](https://tanyalebean.github.io)
