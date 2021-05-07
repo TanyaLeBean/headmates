@@ -1,5 +1,7 @@
 # Headmates
 
+## [Fuzzy](./Fuzzy)
+
 ## [Tanya](./Tanya)
 
 ## [Proxx](./Proxx)
