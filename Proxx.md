@@ -12,4 +12,4 @@ yeah what else?
 He/Him
 
 ##### faceclaim
-![Proxx's Picrew](./hm-picrews/Proxx-Picrew.jpg?raw=true)
+![Proxx's Picrew](./hm-picrews/proxx-picrew.jpg?raw=true)
