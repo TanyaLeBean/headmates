@@ -1,11 +1,11 @@
 # Headmates
 
-## [Fuzzy](./Fuzzy)
+## [Fuzzy](./fuzzy)
 
-## [Tanya](./Tanya)
+## [Tanya](./tanya)
 
-## [Proxx](./Proxx)
+## [Proxx](./proxx)
 
-## [Coda](./Coda)
+## [Coda](./coda)
 
 ### [Homepage](https://tanyalebean.github.io)
