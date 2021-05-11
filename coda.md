@@ -16,4 +16,4 @@ Obviously I love coding. I also geek out about music! I'm not all that big into 
 <br />
 <br />
 ##### faceclaim
-![coda's picrew](./hm-picrews/coda-picrew.jpeg?raw=true)
+![coda's picrew](./hm-picrews/coda-picrew.jpg?raw=true)
